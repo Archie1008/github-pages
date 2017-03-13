@@ -1,0 +1,22 @@
+background-repeat:repeat;
+foundations 4-23
+input[type=text]{
+
+}
+formations 3-66
+
+display: block; - Displaying the links as block elements makes the whole link area clickable (not just the text), and it allows us to specify the width (and padding, margin, height, etc. if you want)
+
+input:focus::-webkit-input-placeholder {
+    opacity: 0;
+}
+From <http://stackoverflow.com/questions/9707021/how-do-i-auto-hide-placeholder-text-upon-focus-using-css-or-jquery> 
+
+polish , add comments, upload
+				
+			body w 960	header w 650 nav w 310
+
+			70 left 70 right
+
+			section margin-right 0
+			aside margin-left 30px
